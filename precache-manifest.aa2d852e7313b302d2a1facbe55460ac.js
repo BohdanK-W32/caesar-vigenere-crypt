@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a681ea3751026f1831d3141586c8312",
+    "revision": "112a12a49184a7a35e4584567d6ed734",
     "url": "/caesar-vigenere-crypt/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caesar-vigenere-crypt/static/css/2.c1e72d16.chunk.css"
   },
   {
-    "revision": "107bc3b3df33a33935e2",
-    "url": "/caesar-vigenere-crypt/static/css/main.0af3765b.chunk.css"
+    "revision": "79d590db8a28e820848e",
+    "url": "/caesar-vigenere-crypt/static/css/main.0edc56e1.chunk.css"
   },
   {
     "revision": "cc427775c5c70b16c1e9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caesar-vigenere-crypt/static/js/2.58506d14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "107bc3b3df33a33935e2",
+    "revision": "79d590db8a28e820848e",
     "url": "/caesar-vigenere-crypt/static/js/main.12269497.chunk.js"
   },
   {
