@@ -1,14 +1,14 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
+import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
 import { ThemeProvider } from '@material-ui/core';
 import Header from '../components/Header';
-import themes from './themes';
+import theme from './theme';
 import routes from './routes';
 import style from './app.module.css';
 
 const App = () => (
-  <ThemeProvider theme={themes.GorgeousContrast}>
-    <BrowserRouter>
+  <ThemeProvider theme={theme}>
+    <HashRouter>
       <div className={style.app}>
         <Switch>
           {routes.map((el, idx) => (
@@ -22,7 +22,7 @@ const App = () => (
           <Redirect from={'*'} to={'/home'} />
         </Switch>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   </ThemeProvider>
 );
 
