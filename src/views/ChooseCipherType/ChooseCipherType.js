@@ -9,10 +9,7 @@ export const ChooseCipherType = () => {
   return (
     <div className={'wrapper-vertical'}>
       <Typography variant={'h3'} component={'h1'} color={'secondary'} style={{ marginBottom: 30 }}>
-        Vigenère cipher
-      </Typography>
-      <Typography variant={'h4'} component={'h2'} color={'secondary'} style={{ marginBottom: 20 }}>
-        What type of encryption do you want to use?
+        What type of cipher do you want to use?
       </Typography>
       <div className={'wrapper'}>
         <Button
