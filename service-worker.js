@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/caesar-vigenere-crypt/precache-manifest.c63cfa68c842a2edaa1d7132c0c4aaa2.js"
+  "/caesar-vigenere-crypt/precache-manifest.e7fd7745d8318e9e8aea89180391845e.js"
 );
 
 self.addEventListener('message', (event) => {
