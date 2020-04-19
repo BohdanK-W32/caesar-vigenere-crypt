@@ -1,0 +1,41 @@
+.quarter {
+  width: 100%;
+  margin: 10px 0 !important;
+}
+
+.half {
+  width: 100%;
+  margin: 10px 0 !important;
+}
+
+.wrp {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+}
+
+@media screen and (min-width: 1024px) {
+  .wrp {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .quarter {
+    width: 23%;
+    margin: 0 !important;
+  }
+
+  .half {
+    width: 46%;
+    margin: 0 !important;
+  }
+}
+
+.wrpVertical {
+  composes: wrp;
+  flex-direction: column;
+}
