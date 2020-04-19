@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/caesar-vigenere-crypt/static/css/main.3ba78753.chunk.css",
+    "main.js": "/caesar-vigenere-crypt/static/js/main.12269497.chunk.js",
+    "main.js.map": "/caesar-vigenere-crypt/static/js/main.12269497.chunk.js.map",
+    "runtime-main.js": "/caesar-vigenere-crypt/static/js/runtime-main.f02fa1a7.js",
+    "runtime-main.js.map": "/caesar-vigenere-crypt/static/js/runtime-main.f02fa1a7.js.map",
+    "static/css/2.c1e72d16.chunk.css": "/caesar-vigenere-crypt/static/css/2.c1e72d16.chunk.css",
+    "static/js/2.58506d14.chunk.js": "/caesar-vigenere-crypt/static/js/2.58506d14.chunk.js",
+    "static/js/2.58506d14.chunk.js.map": "/caesar-vigenere-crypt/static/js/2.58506d14.chunk.js.map",
+    "index.html": "/caesar-vigenere-crypt/index.html",
+    "precache-manifest.c63cfa68c842a2edaa1d7132c0c4aaa2.js": "/caesar-vigenere-crypt/precache-manifest.c63cfa68c842a2edaa1d7132c0c4aaa2.js",
+    "service-worker.js": "/caesar-vigenere-crypt/service-worker.js",
+    "static/css/2.c1e72d16.chunk.css.map": "/caesar-vigenere-crypt/static/css/2.c1e72d16.chunk.css.map",
+    "static/css/main.3ba78753.chunk.css.map": "/caesar-vigenere-crypt/static/css/main.3ba78753.chunk.css.map",
+    "static/js/2.58506d14.chunk.js.LICENSE.txt": "/caesar-vigenere-crypt/static/js/2.58506d14.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/caesar-vigenere-crypt/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f02fa1a7.js",
+    "static/css/2.c1e72d16.chunk.css",
+    "static/js/2.58506d14.chunk.js",
+    "static/css/main.3ba78753.chunk.css",
+    "static/js/main.12269497.chunk.js"
+  ]
+}
