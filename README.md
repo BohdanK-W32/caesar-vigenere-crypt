@@ -1,4 +1,5 @@
-Coursework by Bohdan Kucheriavyi (249-ПР)
+Coursework by Bohdan Kucheriavyi (sophomore year)
+Курсова робота студента групи 249-ПР Кучерявого Богдана (2 курс, Київський фаховий коледж електронних приладів) 
 
 ## Опис
 
